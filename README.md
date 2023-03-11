@@ -1,5 +1,5 @@
 # LI1
-Projeto "Block Dude" referente à UC Laboratórios de Informática I
+Projeto "Block Dude" referente à UC Laboratórios de Informática I, ano letivo 2021/2022
 Grupo 18 - Flávia Araújo e Hugo Dias
 
 
