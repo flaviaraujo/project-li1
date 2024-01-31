@@ -11,7 +11,10 @@ Para sair do executável, clicar na tecla Esc.
 </br>
 Equipa de Trabalho:
 </br>
-Grupo 18 - Flávia Araújo e Hugo Dias
+Flávia Araújo
+</br>
+Hugo Dias
+</br>
 </br>
 Classificação: 11
 </br>
