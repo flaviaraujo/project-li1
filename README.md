@@ -6,7 +6,6 @@ Para executar o jogo, basta executar os seguintes comandos:
    * ghc Tarefa5_2021g018
    * ./Tarefa5_2021g018
 </br>
-</br>
 Para sair do executável, clicar na tecla Esc.
 </br>
 </br>
