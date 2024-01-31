@@ -1,5 +1,5 @@
 # LI1
-Jogo "Block Dude" criado no âmbito da UC Laboratórios de Informática I, no ano letivo 2021/2022.
+Jogo "Block Dude", desenvolvido na linguagem de programação Haskell, no âmbito da UC Laboratórios de Informática I, durante o ano letivo 2021/2022.
 </br>
 </br>
 Para executar o jogo, basta executar os seguintes comandos:
