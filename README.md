@@ -11,9 +11,9 @@ Para sair do executável, clicar na tecla Esc.
 </br>
 Equipa de Trabalho:
 </br>
-Flávia Araújo
+  * Flávia Araújo
 </br>
-Hugo Dias
+ * Hugo Dias
 </br>
 </br>
 Classificação: 11
